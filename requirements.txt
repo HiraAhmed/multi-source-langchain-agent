@@ -1,0 +1,7 @@
+ipykernel
+langchain_community
+wikipedia
+sentence_transformers
+faiss-cpu
+arxiv
+langchain_groq
