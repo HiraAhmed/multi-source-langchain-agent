@@ -1,4 +1,5 @@
 ipykernel
+python-dotenv
 langchain_community
 wikipedia
 sentence_transformers
