@@ -16,12 +16,11 @@ This Jupyter notebook project demonstrates how to build a **Retrieval-Augmented 
 - Compose all tools into a multi-source question answering agent
 
 ---
-
 ## Technologies Used
 
 - [LangChain](https://www.langchain.com/) – Framework for building LLM-powered applications with tools, memory, and agents
 - [FAISS via LangChain](https://python.langchain.com/docs/integrations/vectorstores/faiss) – In-memory vector store for document search
-- [HuggingFace Embeddings via LangChain](https://python.langchain.com/docs/integrations/text_embedding/huggingface) – Text embedding model (e.g., `all-MiniLM-L6-v2`)
+- [HuggingFace Embeddings via LangChain](https://python.langchain.com/docs/integrations/text_embedding/huggingfacehub/) – Text embedding model (e.g., `all-MiniLM-L6-v2`)
 - [LangSmith](https://smith.langchain.com/) – Optional for observability, tracing, and debugging
 - Wikipedia & Arxiv access via [LangChain Community Tools](https://python.langchain.com/docs/integrations/tools/)
 
